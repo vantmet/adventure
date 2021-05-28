@@ -4,7 +4,7 @@ Your task is to write a simple text adventure game in Go. The player should be a
 
 For example, a typical play session might look something like this:
 
-```
+```PseudoCode
 ./adventure
 
 Welcome to Gopher Castle! While on a walking holiday, you notice an
@@ -76,6 +76,3 @@ like to play again (Y/N)?
 Thanks for playing Gopher Castle!
 
 ```
-
-
-
